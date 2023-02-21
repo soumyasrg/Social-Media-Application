@@ -1,2 +1,1 @@
-# facebook-clone-service
-facebook-clone-service
+# SOCIAL-MEDIA-APPLICATION-BACKEND-USING-SPRING-BOOT
